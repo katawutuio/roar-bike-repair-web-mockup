@@ -1,5 +1,9 @@
+html {
+    height: 100%; /* แก้ความสูงของหน้าเว็บ ให้เนื้อหาเต็ม viewpoint   กรณีที่เนื้อหาของเว็บสั้นกว่า screen */
+}
+
 body {
-    background-color: #fc5e55;  
+    background-image: linear-gradient(#FC5E55 , #FA4083);
 }
 
 .container {
